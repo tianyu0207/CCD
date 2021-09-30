@@ -13,7 +13,7 @@ The code is build based on the [SCAN](https://github.com/wvangansbeke/Unsupervis
 
 Modify the dataloader (data/lag_loader.py) code for your own medical images, then simply run the following command: 
 ```shell
-python simclr.py
+python simclr.py --config_env configs/env.yml --config_exp configs/pretext/simclr_cifar10.yml
 ```
 
 
