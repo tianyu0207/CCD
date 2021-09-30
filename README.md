@@ -1,5 +1,4 @@
 # CCD
-# RTFM
 This repo contains the Pytorch implementation of our paper: 
 > [**Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images**](https://arxiv.org/pdf/2101.10030.pdf)
 >
