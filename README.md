@@ -7,8 +7,15 @@ This repo contains the Pytorch implementation of our paper:
 - **Accepted at MICCAI 2021.**  
 
 
+## Dataset
+
+Please download the **Hyper-Kvasir Anomaly Detection** Dataset from this [**link**](https://drive.google.com/file/d/1-D4noq1V115JXL_uxz-h-P7PNZEP4j1y/view?usp=sharing). 
+
+
 ## Training
 The code is build based on the [SCAN](https://github.com/wvangansbeke/Unsupervised-Classification).
+
+
 
 
 Modify the dataloader (data/lag_loader.py) code for your own medical images, then simply run the following command: 
